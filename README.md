@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rana Hassan</h1>
+<h1 align="center"> Rana Hassan </h1>
 
 <h3 align="center">
 Application Developer | React Developer | Node.js Developer
