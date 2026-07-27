@@ -17,7 +17,7 @@ Building scalable web applications using React, Node.js, Express, and MongoDB.
 - 🌱 Currently learning Advanced React & Backend Development
 - 🚀 Passionate about Full Stack Web Development
 - 💬 Ask me about React, JavaScript, Node.js, APIs
-- 📫 Email: your-email@example.com
+- 📫 Email: ranahassanlatif786@gmail.com
 
 ---
 
@@ -88,5 +88,5 @@ Car Rental Platform built using JavaScript.
 ## 📫 Connect With Me
 
 - LinkedIn: [https://linkedin.com/in/your-profile](https://www.linkedin.com/authwall?trk=gf&trkInfo=AQGzFfa4tvvHPAAAAZ-k45iY_MGJ0QQzibAelhcwPw0bIWbusciO8F3YdKC0GACDUbtogxiM3aH37agYw-bim6qsX8-wV_HJpC95IyL8mxeuO7RumvOXgP7dqMFaxtnD62F3DLU=&original_referer=https://ranahassanportfolio.netlify.app/&sessionRedirect=https%3A%2F%2Fwww.linkedin.com%2Fin%2Frana-hassan-latif-07b452284%3Futm_source%3Dshare_via%26utm_content%3Dprofile%26utm_medium%3Dmember_ios)
-- 
-- Email: ranahassanlatif786@example.com
+  
+- Email: ranahassanlatif786@gmail.com
